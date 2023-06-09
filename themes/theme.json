@@ -45,7 +45,7 @@
 			"#17181A"
 		],
 		"BACKGROUND_ACCENT": [
-			"#87CC52"
+			"#AAAAAA"
 		],
 		"BACKGROUND_FLOATING": [
 			"#1E1F21"
@@ -97,6 +97,12 @@
 		],
 		"TEXT_DANGER": [
 			"#D6395B"
+		],
+		"BACKGROUND_MENTIONED": [
+			"rgba(90, 216, 230, 0.1)"
+		],
+		"TEXT_BRAND": [
+			"#5ad8e6"
 		]
     },
     "rawColors": {
