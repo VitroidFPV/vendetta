@@ -45,7 +45,7 @@
 			"#17181A"
 		],
 		"BACKGROUND_ACCENT": [
-			"#1E1F21"
+			"#87CC52"
 		],
 		"BACKGROUND_FLOATING": [
 			"#1E1F21"
@@ -100,7 +100,9 @@
 		]
     },
     "rawColors": {
-		"PRIMARY_600": "#121314"
+		"PRIMARY_600": "#121314",
+		"BRAND_560": "#551120",
+		"BRAND_260": "#D6395B",
     },
     "spec": 2
 }
