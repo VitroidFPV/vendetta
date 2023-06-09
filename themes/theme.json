@@ -45,7 +45,7 @@
 			"#17181A"
 		],
 		"BACKGROUND_ACCENT": [
-			"#AAAAAA"
+			"#1E1F21"
 		],
 		"BACKGROUND_FLOATING": [
 			"#1E1F21"
@@ -102,6 +102,9 @@
 			"rgba(90, 216, 230, 0.1)"
 		],
 		"TEXT_BRAND": [
+			"#5ad8e6"
+		],
+		"CONTROL_BRAND_FOREGROUND": [
 			"#5ad8e6"
 		]
     },
