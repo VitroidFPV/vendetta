@@ -8,127 +8,38 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#87cc52"
-        ],
-        "HEADER_SECONDARY": [
-            "#87cc52"
-        ],
-        "TEXT_NORMAL": [
-            "#eeeeee"
-        ],
-        "TEXT_MUTED": [
-            "#555960"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#87cc52"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#555960"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#87cc52"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#555960"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#121314"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#17181a"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#17181a"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#121314"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#555960"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#17181a"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#17181a"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#17181a"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#17181a"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#304520"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#304520"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#304520"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#26273b"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "transparent"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#26273b"
-        ],
-        "TEXT_LINK": [
-            "#d6395b"
-        ],
-        "TEXT_DANGER": [
-            "#503E38"
-        ],
-        "KEYBOARD": [
-            "#121314"
-        ],
-        "CHANNEL_ICON": [
-            "#87cc52"
-        ],
-        "CHAT_BACKGROUND": [
-            "#121314"
-        ]
+        "HEADER_PRIMARY": "#eeeeee",
+		"HEADER_SECONDARY": "#cccccc",
+		"TEXT_MUTED": "#aaaaaa",
+		"TEXT_LINK": "#d6395b",
+		"INTERACTIVE_NORMAL": "#87cc52",
+		"INTERACTIVE_HOVER": "#87cc52",
+		"INTERACTIVE_ACTIVE": "#FFFFFF",
+		"INTERACTIVE_MUTED": "#aaaaaa",
+		"BACKGROUND_PRIMARY": "#121314",
+		"BACKGROUND_SECONDARY": "#17181a",
+		"BACKGROUND_SECONDARY_ALT": "#1e1f21",
+		"BACKGROUND_TERTIARY": "#17181a",
+		"BACKGROUND_ACCENT": "#1e1f21",
+		"BACKGROUND_FLOATING": "#1e1f21",
+		"BACKGROUND_MOBILE_PRIMARY": "#121314",
+		"BACKGROUND_MOBILE_SECONDARY": "#121314",
+		"BACKGROUND_MESSAGE_HOVER": "#1e1f21",
+		"BACKGROUN_MODIFIER_HOVER": "#1e1f21",
+		"BACKGROUND_MODIFIER_ACTIVE": "rgba(135, 204, 82, 0.1)",
+		"BACKGROUND_MODIFIER_SELECTED": "#1e1f21",
+		"BACKGROUND_MODIFIER_ACCENT": "#1e1f21",
+		"SCROLLBAR_THIN_THUMB": "#1e1f21",
+		"SCROLLBAR_THIN_TRACK": "transparent",
+		"SCROLLBAR_AUTO_THUMB": "#1e1f21",
+		"SCROLLBAR_AUTO_TRACK": "transparent",
+		"KEYBOARD": "#1e1f21",
+		"CHANNEL_ICON": "#87cc52",
+		"CHAT_BACKGROUND": "#121314",
+		"CHANNEL_TEXT_AREA_PLACEHOLDER": "#aaaaaa",
+		"TEXT_DANGER": "#d6395b"
     },
     "rawColors": {
-        "PRIMARY_500": "#121314",
-        "PRIMARY_100": "#87cc52",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_300": "#121314",
-        "PRIMARY_360": "#121314",
-        "PRIMARY_400": "#121314",
-        "PRIMARY_600": "#100D0A",
-        "PRIMARY_630": "#1B1411",
-        "PRIMARY_660": "#1B1411",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
-        "BRAND_260": "#d6395b",
-        "BRAND_360": "#d6395b",
-        "BRAND_500": "#d6395b",
-        "BRAND_560": "#d6395b",
-        "YELLOW_300": "#d6395b",
-        "GREEN_600": "#87cc52",
-        "RED_400": "#121314",
-        "WHITE_500": "#87cc52",
         "GREEN_360": "#87cc52"
     },
     "spec": 2
