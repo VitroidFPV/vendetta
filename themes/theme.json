@@ -45,7 +45,7 @@
 			"#17181A"
 		],
 		"BACKGROUND_ACCENT": [
-			"#1E1F21"
+			"rgba(255, 255, 255, 0.05)"
 		],
 		"BACKGROUND_FLOATING": [
 			"#1E1F21"
@@ -135,7 +135,8 @@
         "BRAND_800": "#460b20",
         "BRAND_830": "#320817",
         "BRAND_860": "#1e050e",
-        "BRAND_900": "#0a0205"
+        "BRAND_900": "#0a0205",
+        "YELLOW_300": "#f92672"
     },
     "spec": 2
 }
