@@ -21,10 +21,10 @@
 			"#D6395B"
 		],
 		"INTERACTIVE_NORMAL": [
-			"#87CC52"
+			"#AAAAAA"
 		],
 		"INTERACTIVE_HOVER": [
-			"#87CC52"
+			"#CCCCCC"
 		],
 		"INTERACTIVE_ACTIVE": [
 			"#FFFFFF"
@@ -59,7 +59,7 @@
 		"BACKGROUND_MESSAGE_HOVER": [
 			"#1E1F21"
 		],
-		"BACKGROUN_MODIFIER_HOVER": [
+		"BACKGROUND_MODIFIER_HOVER": [
 			"#1E1F21"
 		],
 		"BACKGROUND_MODIFIER_ACTIVE": [
@@ -100,7 +100,7 @@
 		]
     },
     "rawColors": {
-        "GREEN_360": "#87cc52"
+		"PRIMARY_600": "#121314"
     },
     "spec": 2
 }
