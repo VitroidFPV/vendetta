@@ -1,13 +1,13 @@
 {
-    "name": "One Dark Noob",
-    "description": "Somewhat improved one dark pro theme",
-    "authors": [
-        {
-            "name": "Vitroid",
-            "id": "555686162153472000"
-        }
-    ],
-    "semanticColors": {
+	"name": "One Dark Noob",
+	"description": "Somewhat improved one dark pro theme",
+	"authors": [
+		{
+			"name": "Vitroid",
+			"id": "555686162153472000"
+		}
+	],
+	"semanticColors": {
 		"HEADER_PRIMARY": [
 			"#EEEEEE"
 		],
@@ -15,7 +15,7 @@
 			"#CCCCCC"
 		],
 		"TEXT_MUTED": [
-			"#AAAAAA"
+			"#444444"
 		],
 		"TEXT_LINK": [
 			"#D6395B"
@@ -30,7 +30,7 @@
 			"#FFFFFF"
 		],
 		"INTERACTIVE_MUTED": [
-			"#AAAAAA"
+			"#444444"
 		],
 		"BACKGROUND_PRIMARY": [
 			"#121314"
@@ -107,10 +107,36 @@
 		"CONTROL_BRAND_FOREGROUND": [
 			"#5ad8e6"
 		]
-    },
-    "rawColors": {
+	},
+	"rawColors": {
 		"PRIMARY_600": "#121314",
-        "YELLOW_300": "#5ad8e6"
-    },
-    "spec": 2
+		"YELLOW_300": "#5ad8e6",
+		"BRAND_100": "#FFFFFF",
+		"BRAND_130": "#FCF0F2",
+		"BRAND_160": "#F9E1E6",
+		"BRAND_200": "#F6D1D9",
+		"BRAND_230": "#F2C2CD",
+		"BRAND_260": "#EFB3C0",
+		"BRAND_300": "#ECA4B3",
+		"BRAND_330": "#E994A7",
+		"BRAND_345": "#E6859A",
+		"BRAND_360": "#E3768E",
+		"BRAND_400": "#E06781",
+		"BRAND_430": "#DC5874",
+		"BRAND_460": "#D94868",
+		"BRAND_500": "#D6395B",
+		"BRAND_530": "#C63554",
+		"BRAND_560": "#B6314D",
+		"BRAND_600": "#A62C47",
+		"BRAND_630": "#962840",
+		"BRAND_660": "#862439",
+		"BRAND_700": "#761F32",
+		"BRAND_730": "#661B2B",
+		"BRAND_760": "#561724",
+		"BRAND_800": "#46131E",
+		"BRAND_830": "#360E17",
+		"BRAND_860": "#250A10",
+		"BRAND_900": "#150609"
+	},
+	"spec": 2
 }
