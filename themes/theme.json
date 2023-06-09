@@ -45,7 +45,7 @@
 			"#17181A"
 		],
 		"BACKGROUND_ACCENT": [
-			"rgba(255, 255, 255, 0.05)"
+			"rgba(175, 175, 175, 0.2)"
 		],
 		"BACKGROUND_FLOATING": [
 			"#1E1F21"
@@ -99,7 +99,7 @@
 			"#D6395B"
 		],
 		"BACKGROUND_MENTIONED": [
-			"rgba(255, 216, 230, 0.1)"
+			"rgba(90, 216, 230, 0.1)"
 		],
 		"TEXT_BRAND": [
 			"#5ad8e6"
@@ -110,33 +110,7 @@
     },
     "rawColors": {
 		"PRIMARY_600": "#121314",
-		"BRAND_100": "#fff6f9",
-        "BRAND_130": "#fee5ee",
-        "BRAND_160": "#fedce8",
-        "BRAND_200": "#fed4e3",
-        "BRAND_230": "#fdc2d8",
-        "BRAND_260": "#fdb1cc",
-        "BRAND_300": "#fca0c1",
-        "BRAND_330": "#fc8eb6",
-        "BRAND_345": "#fb7daa",
-        "BRAND_360": "#fb6b9f",
-        "BRAND_400": "#fa5a94",
-        "BRAND_430": "#fa4989",
-        "BRAND_460": "#f9377d",
-        "BRAND_500": "#f92672",
-        "BRAND_530": "#e52369",
-        "BRAND_560": "#d12060",
-        "BRAND_600": "#bd1d57",
-        "BRAND_630": "#a91a4e",
-        "BRAND_660": "#951744",
-        "BRAND_700": "#81143b",
-        "BRAND_730": "#6e1132",
-        "BRAND_760": "#5a0e29",
-        "BRAND_800": "#460b20",
-        "BRAND_830": "#320817",
-        "BRAND_860": "#1e050e",
-        "BRAND_900": "#0a0205",
-        "YELLOW_300": "#f92672"
+        "YELLOW_300": "#5ad8e6"
     },
     "spec": 2
 }
